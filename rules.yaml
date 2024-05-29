@@ -1,0 +1,10 @@
+preview_settings:
+  language: java
+
+default:
+  enabled: true
+  rules:
+    - variable naming should be consistent
+    - provide unit test whenever possible
+    - provide code review comment concisely
+    - use bullet points in the code review comment, with a short description at the beginning
