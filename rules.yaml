@@ -12,10 +12,10 @@ default:
 ## support overriding based on repository
 # override:
 #  repository:
-#    YAP/yoda:
+#    org1/repo1:
 #      rules:
 #        - imports should follow alphabetic order
-#    Rhapsody/conductor:
+#    org2/repo2:
 #      rules:
 #        - Use descriptive variable names
 #        - Use variables even for constants
